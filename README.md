@@ -1,8 +1,5 @@
 # Bin2Dec
-Conversor de binário para decimal usando React
-
-![Conversao bem sucedida](https://github.com/fdAssis/Bin2Dec/blob/master/web/img/001.png)
-![Erro de conversao](https://github.com/fdAssis/Bin2Dec/blob/master/web/img/002.png)
+Conversor de binário para decimal usando React.
 
 
 **Tier:** 1-Beginner
@@ -25,3 +22,10 @@ Determining the decimal equivalent of a particular binary digit in the sequence 
 ## Bonus features
 
 - [x] User can enter a variable number of binary digits
+
+## Demo imagens
+- Conversão bem sucedida
+![Conversao bem sucedida](https://github.com/fdAssis/Bin2Dec/blob/master/web/img/001.png)
+
+- Erro no input
+![Erro de conversao](https://github.com/fdAssis/Bin2Dec/blob/master/web/img/002.png)
